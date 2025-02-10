@@ -1,4 +1,4 @@
-Example output with minimal data and with minimum training (epochs: 10)
+Example output with minimal data and with minimum training in YOLOv8 (epochs: 10)
 
 
 
