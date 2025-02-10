@@ -1,0 +1,4 @@
+train : #train 
+val: ##test
+nc:  # Number of classes
+names: [""] #classes (object)
